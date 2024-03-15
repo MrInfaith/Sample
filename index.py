@@ -10,3 +10,10 @@ def newfeature():
 
 
 newfeature()
+
+
+def newfea(ans):
+    return ans
+
+
+print(newfea(335))
